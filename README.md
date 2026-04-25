@@ -2,9 +2,22 @@
 
 **AI/ML Engineer** · Building production-grade intelligent systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/edwin--thomas)
-[![GCP](https://img.shields.io/badge/Cloud_Run-Live_Projects-4285F4?style=flat&logo=googlecloud)](https://github.com/edwinthoma)
 
+
+#  About Me:
+## Currently
+
+- Deepening expertise in **agentic system design** and **multi-agent orchestration**
+- Open to **AI/ML Engineer** roles where I can ship real systems, not just proof-of-concepts
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edwinthoma30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin--thomas) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=edwinthoma&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=edwinthoma&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=edwinthoma&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## Featured Projects
 
@@ -16,9 +29,7 @@
 - **Architecture**: Orchestrated agent network — market analysis, macro correlation, and signal synthesis agents working in parallel
 - Deployed and live on Cloud Run
 -  Live deployment: [`CryptoSense AI`](https://financial-agent-982747014163.us-central1.run.app)
--  GitHub: [`Answer-Evaluator-AI-Agent`](https://github.com/edwinthoma/Answer-Evaluator-AI-Agent)
-
-
+-  GitHub: [`CryptoSense-AI`](https://github.com/edwinthoma/CryptoSense-AI)
 
 ---
 
@@ -46,12 +57,4 @@
 
 ---
 
-## Currently
-
-- Deepening expertise in **agentic system design** and **multi-agent orchestration**
-- Exploring **GoLang** for high-performance backend services
-- Open to **AI/ML Engineer** roles where I can ship real systems, not just proof-of-concepts
-
-
-
-📍 Bengaluru, India &nbsp;|&nbsp; 📬 [GitHub](https://github.com/edwinthomas)
+📍 Bengaluru, India 
