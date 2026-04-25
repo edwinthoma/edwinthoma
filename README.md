@@ -2,7 +2,7 @@
 
 **AI/ML Engineer** · Building production-grade intelligent systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/edwinthomas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/edwin--thomas)
 [![GCP](https://img.shields.io/badge/Cloud_Run-Live_Projects-4285F4?style=flat&logo=googlecloud)](https://github.com/edwinthoma)
 
 
@@ -15,6 +15,10 @@
 - **Data**: Bitcoin/Ethereum on-chain transactions + World Bank WDI macroeconomic datasets
 - **Architecture**: Orchestrated agent network — market analysis, macro correlation, and signal synthesis agents working in parallel
 - Deployed and live on Cloud Run
+-  Live deployment: [`CryptoSense AI`](https://financial-agent-982747014163.us-central1.run.app)
+-  GitHub: [`Answer-Evaluator-AI-Agent`](https://github.com/edwinthoma/Answer-Evaluator-AI-Agent)
+
+
 
 ---
 
@@ -23,7 +27,7 @@
 
 - **Stack**: Google ADK · Gemini 2.5 Flash · Cloud Run · AI Studio API
 - Built and containerized via custom Dockerfile after debugging ADK deploy pipeline
-- Live deployment: [`evaluator-agent-237890266824.us-central1.run.app`](https://evaluator-agent-237890266824.us-central1.run.app)
+- Live deployment: [`evaluator-agent`](https://evaluator-agent-237890266824.us-central1.run.app)
 - GitHub: [`Answer-Evaluator-AI-Agent`](https://github.com/edwinthoma/Answer-Evaluator-AI-Agent)
 
 ---
