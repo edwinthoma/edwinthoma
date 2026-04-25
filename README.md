@@ -14,10 +14,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edwinthoma30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin--thomas) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=edwinthoma&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=edwinthoma&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=edwinthoma&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## Featured Projects
 
@@ -54,6 +50,7 @@
 | **Viz / BI** | Power BI, Excel, Figma |
 | **Frontend** | HTML, CSS |
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=edwinthoma&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
