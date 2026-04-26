@@ -8,7 +8,7 @@
 ## Currently
 
 - Deepening expertise in **agentic system design** and **multi-agent orchestration**
-- Open to **AI/ML Engineer** roles where I can ship real systems, not just proof-of-concepts
+- Open to **AI/ML Engineer** roles where I can ship real systems
 
 
 ## 🌐 Socials:
